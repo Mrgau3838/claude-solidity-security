@@ -178,4 +178,4 @@ Issues and PRs are welcome. For security-related findings in this repository its
 
 ---
 
-*Built by [**Demeter Financial**](https://github.com/demeter-financial) — © 2025 Demeter Financial. Released under the [MIT License](LICENSE).*
+*Built by [**Demeter Financial**](https://github.com/Demeter-Financial-Labs) — © 2025 Demeter Financial. Released under the [MIT License](LICENSE).*
