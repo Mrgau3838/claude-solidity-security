@@ -172,6 +172,10 @@ skills/smart-contract-security/
 
 ---
 
+## Community
+
+Join the Demeter Financial Discord: **https://discord.gg/XJqs6RybTk**
+
 ## Contributing
 
 Issues and PRs are welcome. For security-related findings in this repository itself, please follow the [responsible disclosure policy](SECURITY.md).
